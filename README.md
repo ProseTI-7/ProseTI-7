@@ -2,7 +2,7 @@
 
 Somos uma equipe dedicada a transformar desafios em soluções tecnológicas inovadoras. Nossa missão é capacitar empresas por meio da automação e inovação, criando ferramentas que otimizam processos, aumentam a produtividade e elevam o desempenho a novos patamares.
 
-### Nossos Valores
+## Nossos Valores
 
 🔹 **Expertise em Automação**  
 🔹 **Soluções Personalizadas**  
