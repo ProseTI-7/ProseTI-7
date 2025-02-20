@@ -131,7 +131,8 @@ Somos uma equipe dedicada a transformar desafios em soluções tecnológicas ino
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
+    weight="80"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=ProseTI-7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
