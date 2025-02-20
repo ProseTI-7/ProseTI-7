@@ -1,5 +1,10 @@
-## Hi there 👋
+## ProseTI
 
+Somos uma equipe dedicada a transformar desafios em soluções tecnológicas inovadoras. Nossa missão é capacitar empresas por meio da automação e inovação, criando ferramentas que otimizam processos, aumentam a produtividade e elevam o desempenho a novos patamares.
+
+🔹 Expertise em Automação |🔹 Soluções Personalizadas |🔹 Inovação Contínua |🔹 Resultados Comprovados |🔹 Suporte Dedicado |🔹 Integração Facilitada |🔹 Foco no Cliente
+
+💡 Conecte-se conosco e revolucione seu negócio!
 <!--
 **ProseTI-7/ProseTI-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
